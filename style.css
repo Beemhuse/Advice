@@ -44,7 +44,9 @@ height: calc(100vh-0.1px);
     .img1{
     width: 100%;
 }
-    
+    .img2{
+        background-color: none;
+    }
 h2{
     font-size: 10px;
     text-align: center;
