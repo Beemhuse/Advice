@@ -33,20 +33,18 @@ height: calc(100vh-0.1px);
     border-radius: 50%;
     transition: background-color 0.3s ease-in-out;
     cursor: pointer;
-    position: absolute;
+    /* position: absolute; */
     left: 50%;
-    margin-bottom: 10%;
-    top: 52%;
+    /* margin-bottom: 10%; */
+    top: 57%;
     transform: translateX(-50%);
     position: fixed;
     background-color: hsl(150, 100%, 66%);
 }
     .img1{
-    width: 100%;
+margin-top:5%;
+        width: 100%;
 }
-    .img2{
-        background-color: none;
-    }
 h2{
     font-size: 10px;
     text-align: center;
