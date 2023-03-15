@@ -36,7 +36,7 @@ justify-content: center;
     transition: background-color 0.3s ease-in-out;
     cursor: pointer;
   
-    margin-bottom: -70px;
+    margin-bottom: -60px;
   
     background-color: hsl(150, 100%, 66%);
 }
